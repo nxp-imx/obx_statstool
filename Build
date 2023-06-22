@@ -1,0 +1,5 @@
+# SPDX-License-Identifier: BSD-3-Clause
+# Copyright 2023 NXP
+
+obx_system_stats_d-y += obx_system_stats_d.o
+obx_stats_cli-y += obx_stats_cli.o
